@@ -16,3 +16,7 @@ body {
     background-position: top center;
     background-size: cover;
 }
+
+div#page > img {
+    border-radius: 16px;
+}
