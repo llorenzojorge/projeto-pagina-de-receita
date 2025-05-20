@@ -9,3 +9,10 @@
     --text-color-primary: #F0E8C2;
 
 }
+
+body {
+    background-image: url(imagens/cupcake-background.jpg);
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-size: cover;
+}
