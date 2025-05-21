@@ -33,3 +33,7 @@ div#page {
 div#page > img {
     border-radius: 16px;
 }
+
+footer > p {
+    text-align: center;
+}
