@@ -1,4 +1,8 @@
 :root {
+    font-family: "Alice", serif;
+    line-height: 150%;
+    color: var(--text-color-secondary);
+
     /* Surface Colors */
     --background-color: #573824;
     --surface-color: #F0E8C2;
@@ -6,7 +10,7 @@
     /* Text Colors */
     --text-color-primary: #291B1A;
     --text-color-secondary: #573A37;
-    --text-color-primary: #F0E8C2;
+    --text-color-on-bg: #F0E8C2;
 
 }
 
@@ -33,6 +37,20 @@ div#page {
 div#page > img {
     border-radius: 16px;
 }
+
+h1 {
+    line-height: 140%;
+    font-size: 40px;
+}
+
+h2 {
+    font-size: 24px;
+}
+
+h1, h2 {
+    color: var(--text-color-primary);
+}
+
 
 footer > p {
     text-align: center;
