@@ -71,7 +71,7 @@ h2 {
 h1, h2 {
     margin-bottom: 4px;
     color: var(--text-color-primary);
-    line-height: 150%;
+    line-height: 150%         ;
 }
 
 
