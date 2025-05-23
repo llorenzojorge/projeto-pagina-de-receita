@@ -25,7 +25,6 @@ Você pode visualizar o site publicado via **GitHub Pages** clicando no link aba
 ## 📁 Estrutura básica do projeto
 projeto-pagina-de-receita/
 
-│
 ├── index.html # Página principal
 
 └── style.css # Estilos da página
