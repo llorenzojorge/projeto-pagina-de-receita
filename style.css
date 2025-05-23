@@ -35,7 +35,7 @@ div#page {
     background-color: var(--surface-color);
     border-radius: 24px;
 
-    margin: 48px auto;
+    margin: 48px auto 28px;
     padding: 24px;
 }
 
@@ -74,7 +74,16 @@ h1, h2 {
     line-height: 150%         ;
 }
 
+footer {
+    padding-bottom: 48px;
+    color: var(--text-color-on-bg);
+    margin: auto;
+}
 
 footer > p {
     text-align: center;
+}
+
+footer > img {
+    vertical-align: middle;
 }
