@@ -38,6 +38,8 @@ Este projeto foi criado com fins **educacionais**, como prática de fundamentos 
 Se quiser testar localmente, basta:
 
 1. Clonar o repositório:
+2. git clone https://github.com/llorenzojorge/projeto-pagina-de-receita.git
+3. Abrir o arquivo `index.html` no navegador.
 
 ---
 
