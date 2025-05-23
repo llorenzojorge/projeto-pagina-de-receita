@@ -26,7 +26,6 @@ Você pode visualizar o site publicado via **GitHub Pages** clicando no link aba
 projeto-pagina-de-receita/
 
 │
-
 ├── index.html # Página principal
 
 └── style.css # Estilos da página
