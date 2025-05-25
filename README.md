@@ -43,4 +43,4 @@ Se quiser testar localmente, basta:
 
 ---
 
-Desenvolvido com 💻 por [Lorenzo Jorge](https://github.com/llorenzojorge)
+Desenvolvido por [Lorenzo Jorge](https://github.com/llorenzojorge) 💻
