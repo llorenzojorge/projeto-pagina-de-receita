@@ -1,5 +1,7 @@
 # 🍝 Projeto: Página de Receita
 
+![Visual do projeto Página de Receita](imagens/preview.png)
+
 Este é um projeto simples de uma página web estática criada com **HTML** e **CSS**, que apresenta uma receita culinária de forma clara, bonita e acessível. A proposta foi desenvolver uma estrutura básica de site com foco em **semântica, estilo e organização visual**.
 
 ## 🔗 Acesse o projeto online
